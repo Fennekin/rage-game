@@ -5,3 +5,15 @@ stats {
     font-size: 24px;
     font-family: "Arial", sans-serif;
 }
+#stattable {
+    border: 2px solid black;
+}
+#stathead {
+    border: 1px solid black;
+    padding: 2px;
+}
+#statdisplay {
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+}
